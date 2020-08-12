@@ -1,0 +1,33 @@
+
+*** These modified files were found in JOE when it aborted on Wed Aug 12 08:57:34 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/COMMIT_EDITMSG
+
+*** File '/root/hashicat-aws/.git/COMMIT_EDITMSG'
+Mergeuuuuuubranch
+ 'master' of https://github.com/ghostbusterz/hashicat-aws
+
+# Conflicts:
+#	files/deploy_app.kkkksh
+
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# All conflicts fixed but you are still merging.
+#
